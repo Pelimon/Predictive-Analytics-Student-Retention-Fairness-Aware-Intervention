@@ -138,6 +138,8 @@ Automate model monitoring for drift detection
 
 👤 Author
 
-Atharva H
+Atharva Honrao
+
 Graduate Student — Data Science
+
 Focus Areas: Machine Learning, Responsible AI, Applied Analytics
